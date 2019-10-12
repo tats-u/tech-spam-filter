@@ -1,0 +1,20 @@
+= 技術系スパムサイトフィルタ for Google検索
+
+== 概要
+
+🇯🇵本フィルタは、日本人プログラマ・エンジニアを狙った、プログラミング関連のワードで検索する際に上位に出てきてウザったい技術系スパムサイトをGoogle検索結果から除外します。 link:https://github.com/iorate/uBlacklist[uBlacklist]と、link:https://github.com/NanoAdblocker/NanoCore[Nano Adblocker] (https://github.com/gorhill/uBlock[uBlock Origin])用のフィルタをそれぞれ用意しています。
+
+🌐This is a filter excluding spam sites targetting at Japanese programmers and engineers from Google search.
+
+== 対象サイト
+
+侍エンジニア塾:: https://takachan.hatenablog.com/entry/2018/10/13/002107
+StackOverflow翻訳系サイト::
+一応 https://github.com/arosh/ublacklist-stackoverflow-translation がありますが、 https://labor.ewigleere.net/2019/04/03/extension-exclude-to-faqservice-from-google-search/ をファイル化したもの + Stack Overnetを収録しています。
+
+他にこれを対象に含めるべきというご意見がありましたら、理由を含めてIssue・PRを立ててください。
+
+== 対象外サイト
+
+Qiita:: 玉石混交ではあるが、侍エンジニア塾よりはマシ
+各種ブログ記事:: 同上

@@ -1,0 +1,22 @@
+!#侍エンジニア塾
+*://www.sejuku.net/*
+
+!#Stack Overflowスパム
+!#Thanks to: https://labor.ewigleere.net/2019/04/03/extension-exclude-to-faqservice-from-google-search/
+
+*://stackoverrun.com/*
+*://code.i-harness.com/*
+*://code-examples.net/*
+*://codeday.me/*
+*://www.voidcc.com/*
+*://kotaeta.com/*
+*://living-sun.com/*
+*://codetd.com/*
+*://cure-greoux.com/*
+*://jp.mytory.net/*
+*://forsenergy.com/*
+*://bunnyinside.com/*
+
+!#Stack Overnet
+*://stackovernet.com/*
+*://*.stackovernet.com/*

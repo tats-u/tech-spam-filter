@@ -1,0 +1,38 @@
+[Adblock Plus 2.0]
+! Title: 技術系スパムフィルタ
+! Homepage: https://github.com/tats-u/tech-spam-filter
+
+! 侍エンジニア塾
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://www.sejuku.net"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://www.sejuku.net))
+
+! Stack Overflowスパム
+! Thanks to: https://labor.ewigleere.net/2019/04/03/extension-exclude-to-faqservice-from-google-search/
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://stackoverrun.com"])
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://code.i-harness.com"])
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://code-examples.net"])
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://codeday.me"])
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://www.voidcc.com"])
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://kotaeta.com"])
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://living-sun.com"])
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://codetd.com"])
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://cure-greoux.com"])
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://jp.mytory.net"])
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://forsenergy.com"])
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://bunnyinside.com"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://stackoverrun.com))
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://code.i-harness.com))
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://code-examples.net))
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://codeday.me))
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://www.voidcc.com))
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://kotaeta.com))
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://living-sun.com))
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://codetd.com))
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://cure-greoux.com))
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://jp.mytory.net))
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://forsenergy.com))
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://bunnyinside.com))
+
+! Stack Overnet
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://stackovernet.com"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(/:\/\/.+\.sejuku\.net/))
