@@ -18,5 +18,4 @@
 *://bunnyinside.com/*
 
 !#Stack Overnet
-*://stackovernet.com/*
-*://*.stackovernet.com/*
+*stackovernet.com/*
