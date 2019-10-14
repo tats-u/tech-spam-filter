@@ -6,6 +6,24 @@
 
 🌐This is a filter excluding spam sites targetting at Japanese programmers and engineers from Google search.
 
+== 使い方
+
+=== uBlacklist
+
+. uBlacklistの設定を開く
+. オプションタブを開く
+. ブラックリストの「購読を追加する」ボタンをクリック
+. 名前は「技術系スパムサイト」(例)、URLは「link:++https://raw.githubusercontent.com/tats-u/tech-spam-filter/master/ublacklist.txt++[]」を指定
+.「追加」ボタンをクリック
+
+=== Nano Adblocker
+
+. Nano Adblockerなどのダッシュボードを開く
+. 「フィルター一覧」タブを開く
+. 「+カスタム」の「インポート」にチェック
+. テキスト入力欄に「link:++https://raw.githubusercontent.com/tats-u/tech-spam-filter/master/nano-blocker.txt++[]」を入力
+. 画面右上の「適用」ボタンをクリック
+
 == 対象サイト
 
 侍エンジニア塾:: https://takachan.hatenablog.com/entry/2018/10/13/002107
