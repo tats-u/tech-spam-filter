@@ -20,3 +20,5 @@
 !#Stack Overnet
 *://*.stackovernet.com/*
 *://stackovernet.com/*
+
+*://tutorialmore.com/*

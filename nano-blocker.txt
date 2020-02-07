@@ -36,3 +36,6 @@ www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://bunnyinside.com))
 ! Stack Overnet
 www.google.com,www.google.co.jp##div.g:has(.r>a[href*="stackovernet.com"])
 www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(stackovernet.com))
+
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="tutorialmore.com"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(tutorialmore.com))
