@@ -22,3 +22,6 @@
 *://stackovernet.com/*
 
 *://tutorialmore.com/*
+*://qastack.jp/*
+*://www.it-swarm.dev/*
+*://www.it-swarm-ja.tech/*

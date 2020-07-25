@@ -34,8 +34,14 @@ www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://forsenergy.com))
 www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://bunnyinside.com))
 
 ! Stack Overnet
-www.google.com,www.google.co.jp##div.g:has(.r>a[href*="stackovernet.com"])
-www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(stackovernet.com))
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://stackovernet.com"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://stackovernet.com))
 
-www.google.com,www.google.co.jp##div.g:has(.r>a[href*="tutorialmore.com"])
-www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(tutorialmore.com))
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://tutorialmore.com"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://tutorialmore.com))
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://qastack.jp"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://qastack.jp))
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://it-swarm.dev"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://it-swarm.dev))
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://it-swarm-ja.tech"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://it-swarm-ja.tech))
