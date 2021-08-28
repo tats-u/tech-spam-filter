@@ -2,7 +2,7 @@
 
 == 概要
 
-🇯🇵本フィルタは、日本人プログラマ・エンジニアを狙った、プログラミング関連のワードで検索する際に上位に出てきてウザったい技術系スパムサイトをGoogle検索結果から除外します。 link:https://github.com/iorate/uBlacklist[uBlacklist]と、link:https://github.com/NanoAdblocker/NanoCore[Nano Adblocker] (https://github.com/gorhill/uBlock[uBlock Origin])用のフィルタをそれぞれ用意しています。
+🇯🇵本フィルタは、日本人プログラマ・エンジニアを狙った、プログラミング関連のワードで検索する際に上位に出てきてウザったい技術系スパムサイトをGoogle検索結果から除外します。 link:https://github.com/iorate/uBlacklist[uBlacklist]とhttps://github.com/gorhill/uBlock[uBlock Origin]用のフィルタをそれぞれ用意しています。
 
 🌐This is a filter excluding spam sites targetting at Japanese programmers and engineers from Google search.
 
@@ -16,9 +16,9 @@
 . 名前は「技術系スパムサイト」(例)、URLは「link:++https://raw.githubusercontent.com/tats-u/tech-spam-filter/master/ublacklist.txt++[]」を指定
 .「追加」ボタンをクリック
 
-=== Nano Adblocker
+=== uBlock Origin
 
-. Nano Adblockerなどのダッシュボードを開く
+. uBlock Originなどのダッシュボードを開く
 . 「フィルター一覧」タブを開く
 . 「+カスタム」の「インポート」にチェック
 . テキスト入力欄に「link:++https://raw.githubusercontent.com/tats-u/tech-spam-filter/master/nano-blocker.txt++[]」を入力
