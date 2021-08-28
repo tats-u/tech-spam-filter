@@ -1,6 +1,10 @@
 !#侍エンジニア塾
 *://www.sejuku.net/*
 
+!#TechAcademy
+*://techacademy.jp/magazine/*
+
+
 !#Stack Overflowスパム
 !#Thanks to: https://labor.ewigleere.net/2019/04/03/extension-exclude-to-faqservice-from-google-search/
 

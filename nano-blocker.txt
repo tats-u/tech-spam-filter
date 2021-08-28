@@ -6,6 +6,10 @@
 www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://www.sejuku.net"])
 www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://www.sejuku.net))
 
+! TechAcademy
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://techacademy.jp"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://techacademy.jp))
+
 ! Stack Overflowスパム
 ! Thanks to: https://labor.ewigleere.net/2019/04/03/extension-exclude-to-faqservice-from-google-search/
 www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://stackoverrun.com"])

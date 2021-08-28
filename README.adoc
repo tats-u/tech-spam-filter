@@ -27,6 +27,7 @@
 == 対象サイト
 
 侍エンジニア塾:: https://takachan.hatenablog.com/entry/2018/10/13/002107
+TechAcademy:: 見過ごせなくなってきた
 StackOverflow翻訳系サイト::
 一応 https://github.com/arosh/ublacklist-stackoverflow-translation がありますが、 https://labor.ewigleere.net/2019/04/03/extension-exclude-to-faqservice-from-google-search/ をファイル化したもの + Stack Overnet + TutorialMore を収録しています。
 
