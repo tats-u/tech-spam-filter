@@ -31,3 +31,4 @@
 *://www.it-swarm-ja.tech/*
 /^https?:\/\/(www\.)?it-(swarm|mure)[-.]([a-z]{1,5}[-.]){0,3}[a-z]{1,5}\//
 *://www.fixes.pub/*
+*://www.366service.com/*
