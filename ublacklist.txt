@@ -29,5 +29,5 @@
 *://qastack.jp/*
 *://www.it-swarm.dev/*
 *://www.it-swarm-ja.tech/*
-/^https?:\/\/(www\.)?it-(swarm|mure)[-.]([a-z]{,5}[-.]){,2}[a-z]{,5}\//
+/^https?:\/\/(www\.)?it-(swarm|mure)[-.]([a-z]{1,5}[-.]){0,3}[a-z]{1,5}\//
 *://www.fixes.pub/*
