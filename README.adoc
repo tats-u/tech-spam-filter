@@ -2,9 +2,11 @@
 
 == 概要
 
-🇯🇵本フィルタは、日本人プログラマ・エンジニアを狙った、プログラミング関連のワードで検索する際に上位に出てきてウザったい技術系スパムサイトをGoogle検索結果から除外します。 link:https://github.com/iorate/uBlacklist[uBlacklist]とhttps://github.com/gorhill/uBlock[uBlock Origin]用のフィルタをそれぞれ用意しています。
+🇯🇵本フィルタは、日本人プログラマ・エンジニアを狙った、プログラミング関連のワードで検索する際に上位に出てきてウザったい技術系スパムサイトをGoogle検索結果から除外します。 link:https://github.com/iorate/uBlacklist[uBlacklist]とlink:https://github.com/gorhill/uBlock[uBlock Origin]用のフィルタをそれぞれ用意しています。
 
 🌐This is a filter excluding spam sites targetting at Japanese programmers and engineers from Google search.
+
+Stack Overflow用はlink:https://github.com/arosh/ublacklist-stackoverflow-translation[別の作者様のこちらのフィルタ]との併用を強く推奨します。
 
 == 使い方
 
@@ -29,7 +31,8 @@
 侍エンジニア塾:: https://takachan.hatenablog.com/entry/2018/10/13/002107
 TechAcademy:: 見過ごせなくなってきた
 StackOverflow翻訳系サイト::
-一応 https://github.com/arosh/ublacklist-stackoverflow-translation がありますが、 https://labor.ewigleere.net/2019/04/03/extension-exclude-to-faqservice-from-google-search/ をファイル化したもの + Stack Overnet + TutorialMore + fixes.pub + it-swarm派生 等を収録しています。
+一応 https://github.com/arosh/ublacklist-stackoverflow-translation がありますが、 https://labor.ewigleere.net/2019/04/03/extension-exclude-to-faqservice-from-google-search/ をファイル化したもの + Stack Overnet + TutorialMore + fixes.pub + it-swarm派生 等を収録しています。 +
+Stack Overflow用はlink:https://github.com/arosh/ublacklist-stackoverflow-translation[別の作者様のこちらのフィルタ]との併用を強く推奨します。（本フィルタの内容は古くなっていますが、そちらの更新が活発なため、そちらに任せます）
 
 他にこれを対象に含めるべきというご意見がありましたら、理由を含めてIssue・PRを立ててください。
 
