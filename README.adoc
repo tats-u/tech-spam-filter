@@ -6,7 +6,9 @@
 
 🌐This is a filter excluding spam sites targetting at Japanese programmers and engineers from Google search.
 
-Stack Overflow用はlink:https://github.com/arosh/ublacklist-stackoverflow-translation[別の作者様のこちらのフィルタ]との併用を強く推奨します。
+Stack Overflow用はlink:https://github.com/arosh/ublacklist-stackoverflow-translation[別の作者様のこちらのフィルタ]の方がよりメンテされています。 +
+プログラミングスクール用はlink:https://github.com/108EAA0A/ublacklist-programming-school[はたまた別の作者様のフィルタ]がより充実しています。 +
+その他有用なフィルタにつきましては、link:https://iorate.github.io/ublacklist/subscriptions[uBlacklist公式のリンク集]をご参照ください。
 
 == 使い方
 
